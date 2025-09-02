@@ -84,6 +84,18 @@ Esimerkkejä grep-komennon käytöstä. Apuna eri käyttötapojen etsinnässä k
 
 <img width="285" height="37" alt="homework_2_16" src="https://github.com/user-attachments/assets/2f3f1aa1-9a41-49f2-903c-f25529baa324" />
 
+# f) Rauta
+
+<img width="500" height="349" alt="homework_2_17" src="https://github.com/user-attachments/assets/d25a4faf-9495-4249-8204-00f4a9d58c0f" />
+
+- H/W path kertoo kyseisen laitteen sijainnin laitteistopuussa.
+- Device näyttää laitteen nimen, mikäli tämä on saatavilla.
+- Class-kohdassa näkyy laitetyyppi eli esimerkiksi prosessori, muisti jne.
+- Description antaa lisätietoja kyseisestä laitteesta. Esimerkiksi "processor" kohdassa näkyy prosessorin tarkat laitetiedot.
+- short- ja sanitize-komentojen avulla näytetään tiivistetty listaus järjestelmästä. Tästä on poistettu yksilöivät tunnisteet ja tiedot, joten kyseisen listauksen jakaminen esimerkiksi osana tätä tehtävää on turvallista. Short-komento näyttää tiivistetyn listauksen ja sanitize-komento turvallisen version eli poistaa mm. MAC-osoitteet.
+- Listausta voidaan hyödyntää esimerkiksi, jos on jotain ongelmia ja tarvitaan ulkopuolista apua. Tällöin järjestelmän kokoonpanotiedot voidaan jakaa turvallisesti ja hyödyntää ongelmanratkaisussa.
+
+
 
 
 
