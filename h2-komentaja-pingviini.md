@@ -10,6 +10,7 @@
   - /etc/
   - /media/
   - /var/log/
+    
  Lähde: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited#help
 -	Vaikka komentorivin peruskomennot vaikuttivat ennen viime oppituntia melko heprealta, niin niiden perusidea tarttui yllättävän nopeasti mieleen ihan vain kokeilemalla ja ”leikkimällä”.
 
