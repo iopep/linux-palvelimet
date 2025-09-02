@@ -16,4 +16,5 @@
 # a) Micro. Asenna micro-editori
 
 <img width="692" height="469" alt="homework_2_1" src="https://github.com/user-attachments/assets/6acbaae8-d2ef-4468-922b-bca2189fe881" />
+
 Micro-editorin asennus.
