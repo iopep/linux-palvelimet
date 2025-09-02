@@ -80,6 +80,12 @@ Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita ta
 
 Esimerkkejä grep-komennon käytöstä. Apuna eri käyttötapojen etsinnässä käytetty Microsoft Copilotia.
 
+# e) Pipe
+
+<img width="285" height="37" alt="homework_2_16" src="https://github.com/user-attachments/assets/2f3f1aa1-9a41-49f2-903c-f25529baa324" />
+
+
+
 
 
 
