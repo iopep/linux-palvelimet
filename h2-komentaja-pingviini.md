@@ -60,7 +60,7 @@ Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita ta
 
 /home/ilkka-kansiossa on kansio "rmtest", joka sisältää edellisen oppitunnin harjoituskansioita ja kikkailuita.
 
-<img width="673" height="457" alt="homework_2_12" src="https://github.com/user-attachments/assets/487ce161-a2ca-42b6-8b18-8d1cf0025d55" />
+<img width="385" height="152" alt="homework_2_12" src="https://github.com/user-attachments/assets/08aeb624-dabd-49ed-889e-857a5922322c" />
 
 /etc-kansiossa on tiedosto hostname, joka sisältää järjestelmän tunnistenimen, tässä tapauksessa "linux-test".
 
