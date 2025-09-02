@@ -46,6 +46,14 @@ Curl-testausta.
 
 Htop-testausta.
 
+# c) Tärkeät kansiot
+
+<img width="673" height="457" alt="homework_2_9" src="https://github.com/user-attachments/assets/5b82a875-87ea-4cbf-b9de-ef330097e2c6" />
+
+Root-hakemistossa olevat boot-kansio sisältää kaikki ne tiedot joita tarvitaan käynnistysvaiheessa (ennen varsinaisen käyttöjärjestelmän latautumista). Lähde: tiedot etsitty käyttämällä Microsoft Copilotia.
+
+
+
 
 
 
