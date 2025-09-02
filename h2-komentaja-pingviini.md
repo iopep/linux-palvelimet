@@ -74,6 +74,12 @@ Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita ta
 
 /var/log-kansiossa oleva sysstat-kansio sisältää työkaluja järjestelmän seurantaan.
 
+# d) The Friendly M.
+
+<img width="265" height="93" alt="homework_2_15" src="https://github.com/user-attachments/assets/c2dad635-e838-480b-b992-5ed6cf7a613c" />
+
+Esimerkkejä grep-komennon käytöstä. Apuna käytetty Microsoft Copilotia.
+
 
 
 
