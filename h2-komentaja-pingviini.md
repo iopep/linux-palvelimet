@@ -20,9 +20,11 @@
 
 Micro-editorin asennus.
 
-# b) Kolmen komentoriviohjelman asennus ja testaus
-
 <img width="576" height="360" alt="homework_2_2" src="https://github.com/user-attachments/assets/61adf2fd-8c82-4810-b586-63de19051915" />
+
+Editori asennettu.
+
+# b) Kolmen komentoriviohjelman asennus ja testaus
 
 <img width="673" height="457" alt="homework_2_3" src="https://github.com/user-attachments/assets/0f84318c-87d3-425e-aa82-eaceca54f08d" />
 
