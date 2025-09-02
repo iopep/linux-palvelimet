@@ -70,6 +70,10 @@ Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita ta
 
 /media-kansiossa oleva cdrom0-kansio on liitoskohta cd- tai dvd-asemalle.
 
+<img width="518" height="62" alt="homework_2_14" src="https://github.com/user-attachments/assets/f76e54cf-b06e-4c26-8ebc-7d9271356f85" />
+
+/var/log-kansiossa oleva sysstat-kansio sisältää työkaluja järjestelmän seurantaan.
+
 
 
 
