@@ -48,9 +48,11 @@ Htop-testausta.
 
 # c) Tärkeät kansiot
 
+Tässä tehtävässä käytetty lähteenä Microsoft Copilotin hakua tiedon etsintään ja komentojen selvittämiseen.
+
 <img width="673" height="457" alt="homework_2_9" src="https://github.com/user-attachments/assets/5b82a875-87ea-4cbf-b9de-ef330097e2c6" />
 
-Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita tarvitaan käynnistysvaiheessa (ennen varsinaisen käyttöjärjestelmän latautumista). Lähde: tiedot etsitty käyttämällä Microsoft Copilotia.
+Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita tarvitaan käynnistysvaiheessa (ennen varsinaisen käyttöjärjestelmän latautumista). 
 
 <img width="277" height="109" alt="homework_2_10" src="https://github.com/user-attachments/assets/6f2650e8-f9d1-4ce8-b6e4-e7df8cde125a" />
 
@@ -63,6 +65,11 @@ Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita ta
 <img width="385" height="152" alt="homework_2_12" src="https://github.com/user-attachments/assets/08aeb624-dabd-49ed-889e-857a5922322c" />
 
 /etc-kansiossa on tiedosto hostname, joka sisältää järjestelmän tunnistenimen, tässä tapauksessa "linux-test".
+
+<img width="255" height="27" alt="homework_2_13" src="https://github.com/user-attachments/assets/30656e67-0d64-4c59-9414-7573c459aa7f" />
+
+/media-kansiossa oleva cdrom0-kansio on liitoskohta cd- tai dvd-asemalle.
+
 
 
 
