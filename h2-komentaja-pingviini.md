@@ -50,7 +50,17 @@ Htop-testausta.
 
 <img width="673" height="457" alt="homework_2_9" src="https://github.com/user-attachments/assets/5b82a875-87ea-4cbf-b9de-ef330097e2c6" />
 
-Root-hakemistossa olevat boot-kansio sisältää kaikki ne tiedot joita tarvitaan käynnistysvaiheessa (ennen varsinaisen käyttöjärjestelmän latautumista). Lähde: tiedot etsitty käyttämällä Microsoft Copilotia.
+Root-hakemistossa ( / ) olevat boot-kansio sisältää kaikki ne tiedot joita tarvitaan käynnistysvaiheessa (ennen varsinaisen käyttöjärjestelmän latautumista). Lähde: tiedot etsitty käyttämällä Microsoft Copilotia.
+
+<img width="673" height="457" alt="homework_2_10" src="https://github.com/user-attachments/assets/a24b03df-7472-4916-b26c-c40a6409c4ec" />
+
+/home-kansiossa on kansio "ilkka", joka sisältää kaikki minun henkilökohtaiset tiedostot, kansiot ym. eli se on henkilökohtainen kotihakemistoni.
+
+<img width="673" height="457" alt="homework_2_11" src="https://github.com/user-attachments/assets/07e14bfd-d5d5-4442-b865-a03680011512" />
+
+/home/ilkka-kansiossa on kansio "rmtest", joka sisältää edellisen oppitunnin harjoituskansioita ja kikkailuita.
+
+
 
 
 
