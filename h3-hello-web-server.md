@@ -1,6 +1,6 @@
-## h3 Hello web server
+# h3 Hello web server
 
-# x) Lue ja tiivistä
+## x) Lue ja tiivistä
 
 - IP-pohjaiset virtuaalipalvelimet tarvitsevat jokaiselle verkkotunnukselle oman IP-osoitteen, kun taas nimiin perustuvat käyttävät verkkotunnusta (hostname), jonka avulla samalla IP-osoitteella tulevat sivustot voidaan erotella.
 - Tämän johdosta nimiin perustuva tapa ei tarvitse yhtä paljon IP-osoitteita ja on monesti myös helpompi ratkaisu.
@@ -38,7 +38,7 @@
 
 - Lähteet: https://httpd.apache.org/docs/2.4/vhosts/name-based.html, https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
 
-# a) Testaa, että weppipalvelimesi vastaa localhost-osoitteesta
+## a) Testaa, että weppipalvelimesi vastaa localhost-osoitteesta
 
 - Apache-palvelin asennettu jo aiemmin edeltävän oppitunnin yhteydessä.
   
@@ -46,7 +46,7 @@
 
 - Nyt testattu, että palvelin vastaa localhost-osoitteesta. Katsottu myös palvelimen status.
 
-# b) Etsi lokista rivit, jotka syntyvät, kun lataat omalta palvelimeltasi yhden sivun. Analysoi rivit (eli selitä yksityiskohtaisesti jokainen kohta ja numero, etsi tarvittaessa lähteitä).
+## b) Etsi lokista rivit, jotka syntyvät, kun lataat omalta palvelimeltasi yhden sivun. Analysoi rivit (eli selitä yksityiskohtaisesti jokainen kohta ja numero, etsi tarvittaessa lähteitä).
 
 <img width="632" height="173" alt="Läksy_3_2" src="https://github.com/user-attachments/assets/5e49b21c-998f-4bd2-ab86-b270d36056f0" />
 
