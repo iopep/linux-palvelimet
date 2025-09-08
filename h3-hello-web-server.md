@@ -7,12 +7,13 @@
 - Serverin nimen (ServerName) määrittäminen jokaiselle virtuaalipalvelimelle on tärkeää.
 Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
 - Nimiin perustuvan virtuaalipalvelimen asennus (Apache)
-  - Asennus ja konfigurointi
       | Asennus ja konfigurointi|
       |----------------------------------|
       |$ sudo apt-get -y install apache2
-      |$ echo "Default"|sudo tee /var/www/html/index.html |
-  - Virtuaalipalvelimen määrittely
+      $ echo "Default"|sudo tee /var/www/html/index.html |
+  
+      |Virtuaalipalvelimen määrittely|
+  |--------------------------------|
       $ sudoedit /etc/apache2/sites-available/pyora.example.com.conf
       $ cat /etc/apache2/sites-available/pyora.example.com.conf
       <VirtualHost *:80>
