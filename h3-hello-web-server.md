@@ -43,5 +43,6 @@
 - Apache-palvelin asennettu jo aiemmin edeltävän oppitunnin yhteydessä.
   
 <img width="630" height="252" alt="Läksy_3_1" src="https://github.com/user-attachments/assets/c4212797-2285-4b70-ad55-53efbc2ae4c3" />
+
 - Nyt testattu, että palvelin vastaa localhost-osoitteesta. Katsottu myös palvelimen status.
 
