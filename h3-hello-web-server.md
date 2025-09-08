@@ -12,20 +12,21 @@ Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
   $ sudo apt-get -y install apache2
   $ echo "Default"|sudo tee /var/www/html/index.html
   
-      |Virtuaalipalvelimen määrittely|
-      |--------------------------------|
-      $ sudoedit /etc/apache2/sites-available/pyora.example.com.conf
-      $ cat /etc/apache2/sites-available/pyora.example.com.conf
-      <VirtualHost *:80>
-        ServerName pyora.example.com
-        ServerAlias www.pyora.example.com
-         DocumentRoot /home/xubuntu/publicsites/pyora.example.com
-      <Directory /home/xubuntu/publicsites/pyora.example.com>
-         Require all granted
-      </Directory>
-      </VirtualHost>
-      $ sudo a2ensite pyora.example.com
-      $ sudo systemctl restart apache2
+  |Virtuaalipalvelimen määrittely|
+  |------------------------------|
+  $ sudoedit /etc/apache2/sites-available/pyora.example.com.conf
+  $ cat /etc/apache2/sites-available/pyora.example.com.conf
+  <VirtualHost *:80>
+  ServerName pyora.example.com
+  ServerAlias www.pyora.example.com
+  DocumentRoot /home/xubuntu/publicsites/pyora.example.com
+  <Directory /home/xubuntu/publicsites/pyora.example.com>
+  Require all granted
+  </Directory>
+  </VirtualHost>
+  $ sudo a2ensite pyora.example.com
+  $ sudo systemctl restart apache2
+  
   - Sisällön luominen
     - $ mkdir -p /home/xubuntu/publicsites/pyora.example.com/
       $ echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html
