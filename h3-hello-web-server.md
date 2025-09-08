@@ -58,5 +58,19 @@
 
 Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
 
+## c) Etusivu uusiksi
+
+<img width="440" height="369" alt="Läksy_3_4" src="https://github.com/user-attachments/assets/ec954e97-9bdf-4250-ad44-a4e082ec4c1a" />
+
+<img width="384" height="115" alt="Läksy_3_5" src="https://github.com/user-attachments/assets/cc498406-e850-4568-b8ca-175a3eee4e90" />
+
+<img width="395" height="127" alt="Läksy_3_7" src="https://github.com/user-attachments/assets/9dd02d58-0411-466d-8676-7de305b49d20" />
+
+## d) Tee validi HTML5-sivu
+
+<img width="432" height="278" alt="Läksy_3_6" src="https://github.com/user-attachments/assets/69124831-14bf-48c2-8d90-229370afc447" />
+
+
+
 
 
