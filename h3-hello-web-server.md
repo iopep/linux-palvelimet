@@ -73,11 +73,14 @@ Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
 
 <img width="395" height="127" alt="Läksy_3_7" src="https://github.com/user-attachments/assets/9dd02d58-0411-466d-8676-7de305b49d20" />
 
-* 
+- Vasemmalla konfiguraatiotiedosto hattu.example.com ja oikealla sivunäkymä selaimessa
 
 ## d) Tee validi HTML5-sivu
 
 <img width="432" height="278" alt="Läksy_3_6" src="https://github.com/user-attachments/assets/69124831-14bf-48c2-8d90-229370afc447" />
+
+- HTML-koodi yläpuolella oikealla näkyvästä sivusta.
+
 
 
 
