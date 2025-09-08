@@ -63,7 +63,7 @@ Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
 <img width="440" height="369" alt="Läksy_3_4" src="https://github.com/user-attachments/assets/ec954e97-9bdf-4250-ad44-a4e082ec4c1a" />
 
 - Luotu hakemisto /hattu ja index.html.
-- Luotu uusi konfiguraatiotiedosto.
+- Luotu uusi konfiguraatiotiedosto (kuva tästä alempana).
 - Tarkistettu aktiiviset virtuaalipalvelinsivustot.
 - Sammutettu aktiiviset sivustot.
 - Uudelleenladattu Apache.
@@ -72,6 +72,8 @@ Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
 <img width="384" height="115" alt="Läksy_3_5" src="https://github.com/user-attachments/assets/cc498406-e850-4568-b8ca-175a3eee4e90" />
 
 <img width="395" height="127" alt="Läksy_3_7" src="https://github.com/user-attachments/assets/9dd02d58-0411-466d-8676-7de305b49d20" />
+
+* 
 
 ## d) Tee validi HTML5-sivu
 
