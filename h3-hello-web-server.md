@@ -5,7 +5,6 @@
 - IP-pohjaiset virtuaalipalvelimet tarvitsevat jokaiselle verkkotunnukselle oman IP-osoitteen, kun taas nimiin perustuvat käyttävät verkkotunnusta (hostname), jonka avulla samalla IP-osoitteella tulevat sivustot voidaan erotella.
 - Tämän johdosta nimiin perustuva tapa ei tarvitse yhtä paljon IP-osoitteita ja on monesti myös helpompi ratkaisu.
 - Serverin nimen (ServerName) määrittäminen jokaiselle virtuaalipalvelimelle on tärkeää.
-Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
 - Nimiin perustuvan virtuaalipalvelimen asennus (Apache)
   | Asennus ja konfigurointi|
   |-------------------------|
@@ -36,3 +35,5 @@ Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
   |-------|
   |$ curl -H 'Host: pyora.example.com' localhost|
   |$ curl localhost|
+
+- Lähteet: https://httpd.apache.org/docs/2.4/vhosts/name-based.html, https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
