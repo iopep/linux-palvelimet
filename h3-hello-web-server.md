@@ -14,25 +14,25 @@ Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
   
   |Virtuaalipalvelimen määrittely|
   |------------------------------|
-  $ sudoedit /etc/apache2/sites-available/pyora.example.com.conf
-  $ cat /etc/apache2/sites-available/pyora.example.com.conf
-  <VirtualHost *:80>
-  ServerName pyora.example.com
-  ServerAlias www.pyora.example.com
-  DocumentRoot /home/xubuntu/publicsites/pyora.example.com
-  <Directory /home/xubuntu/publicsites/pyora.example.com>
-  Require all granted
-  </Directory>
-  </VirtualHost>
-  $ sudo a2ensite pyora.example.com
-  $ sudo systemctl restart apache2
+  |$ sudoedit /etc/apache2/sites-available/pyora.example.com.conf|
+  |$ cat /etc/apache2/sites-available/pyora.example.com.conf|
+  |<VirtualHost *:80>|
+  |ServerName pyora.example.com|
+  |ServerAlias www.pyora.example.com|
+  |DocumentRoot /home/xubuntu/publicsites/pyora.example.com|
+  |<Directory /home/xubuntu/publicsites/pyora.example.com>|
+  |Require all granted|
+  |</Directory>|
+  |</VirtualHost>|
+  |$ sudo a2ensite pyora.example.com|
+  |$ sudo systemctl restart apache2|
 
   |Sisällön luominen|
   |-----------------|
-  $ mkdir -p /home/xubuntu/publicsites/pyora.example.com/
-  $ echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html
+  |$ mkdir -p /home/xubuntu/publicsites/pyora.example.com/|
+  |$ echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html|
 
   |Testaus|
   |-------|
-  $ curl -H 'Host: pyora.example.com' localhost
-  $ curl localhost
+  |$ curl -H 'Host: pyora.example.com' localhost|
+  |$ curl localhost|
