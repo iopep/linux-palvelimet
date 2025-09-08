@@ -7,8 +7,8 @@
 - Serverin nimen (ServerName) määrittäminen jokaiselle virtuaalipalvelimelle on tärkeää.
 Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
 - Nimiin perustuvan virtuaalipalvelimen asennus (Apache)
-  | Asennus ja konfigurointi         |
-  |----------------------------------|
+  | Asennus ja konfigurointi|
+  |-------------------------|
   $ sudo apt-get -y install apache2
   $ echo "Default"|sudo tee /var/www/html/index.html
   
@@ -26,10 +26,13 @@ Lähde: https://httpd.apache.org/docs/2.4/vhosts/name-based.html
   </VirtualHost>
   $ sudo a2ensite pyora.example.com
   $ sudo systemctl restart apache2
-  
-  - Sisällön luominen
-    - $ mkdir -p /home/xubuntu/publicsites/pyora.example.com/
-      $ echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html
-  - Testaus
-    - $ curl -H 'Host: pyora.example.com' localhost
-      $ curl localhost
+
+  |Sisällön luominen|
+  |-----------------|
+  $ mkdir -p /home/xubuntu/publicsites/pyora.example.com/
+  $ echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html
+
+  |Testaus|
+  |-------|
+  $ curl -H 'Host: pyora.example.com' localhost
+  $ curl localhost
