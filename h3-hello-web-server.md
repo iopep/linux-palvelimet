@@ -36,7 +36,9 @@
   |$ curl -H 'Host: pyora.example.com' localhost|
   |$ curl localhost|
 
-- Lähteet: https://httpd.apache.org/docs/2.4/vhosts/name-based.html, https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
+- Lähteet:
+1. https://httpd.apache.org/docs/2.4/vhosts/name-based.html
+2. https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
 
 ## a) Testaa, että weppipalvelimesi vastaa localhost-osoitteesta
 
@@ -75,11 +77,28 @@ Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
 
 - Vasemmalla konfiguraatiotiedosto hattu.example.com ja oikealla sivunäkymä selaimessa
 
+- Lähteet: 
+1. https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/.
+2. https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-03092025.md.
+3. https://httpd.apache.org/docs/2.4/vhosts/name-based.html.
+4. Microsoft Copilotin hakutoiminto.
+
 ## d) Tee validi HTML5-sivu
 
 <img width="432" height="278" alt="Läksy_3_6" src="https://github.com/user-attachments/assets/69124831-14bf-48c2-8d90-229370afc447" />
 
 - HTML-koodi yläpuolella oikealla näkyvästä sivusta.
+
+## e) Anna esimerkit 'curl -I' ja 'curl' -komennoista
+
+<img width="355" height="287" alt="Läksy_3_8" src="https://github.com/user-attachments/assets/b3291178-069b-4d52-8e7a-6c6318fa2779" />
+
+- curl -I -komennon palautuksessa HTTP/1.1 200 OK tarkoittaa samaa kuin tehtävässä b) on selitetty jo aiemmin.
+- Date tarkoittaa aikaa, jolloin lähetys on tapahtunut.
+- Server palvelintyyppiä (ja versiota?).
+- Content-Type kertoo sisällön tyypin (eli tässä tapauksessa text/html).
+- Muut otsakkeet kertovat mm. edellisen muokkauksen ajankohdan ja sisällön pituuden tavuina.
+
 
 
 
