@@ -46,3 +46,17 @@
 
 - Nyt testattu, että palvelin vastaa localhost-osoitteesta. Katsottu myös palvelimen status.
 
+# b) Etsi lokista rivit, jotka syntyvät, kun lataat omalta palvelimeltasi yhden sivun. Analysoi rivit (eli selitä yksityiskohtaisesti jokainen kohta ja numero, etsi tarvittaessa lähteitä).
+
+<img width="632" height="173" alt="Läksy_3_2" src="https://github.com/user-attachments/assets/5e49b21c-998f-4bd2-ab86-b270d36056f0" />
+
+- Kaikissa riveissä 127.0.0.1 on localhostin IP-osoite.
+- "GET" on HTTP-pyyntö ts. mitä ladattiin. / haetaan juurihakemistoa ts. etusivua. HTTP/1.1 on käytetty protokollaversio. /favicon.ico haetaan verkkosivuston ikonia (näkyy esim. välilehdessä).
+- Ensimmäiset luvut HTTP-pyynnön jälkeen (200, 304, 404) on HTTP-statuskoodeja. 200 tarkoittaa onnistunutta palvelinpyyntöä ja vastausta. 304 tarkoittaa, että sivu ei ole muuttunut edellisen käynnin jälkeen, ja voidaan hyödyntää välimuistia. 404 tarkoittaa, ettei haettua asiaa ole löytynyt.
+- Toinen kolminumeroinen luku statuskoodien jälkeen on vastauksen koko tavuina (248, 304, 247)
+- Loppuosassa on käyttäjän selain ja käyttöjärjestelmä.
+
+Lähteet: tehtävän tiedonhaussa hyödynnetty Microsoft Copilotia.
+
+
+
