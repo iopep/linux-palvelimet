@@ -13,3 +13,14 @@ Lähteet:
 1. https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/
 2. https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
   
+## a) Vuokraa oma virtuaalipalvelin
+
+Vuokrattu palvelintilaa UpCloudilta.
+
+<img width="443" height="424" alt="Läksy_4_1" src="https://github.com/user-attachments/assets/e158df8b-79b5-43a7-bc5e-a6310829d0e8" />
+
+<img width="439" height="357" alt="Läksy_4_2" src="https://github.com/user-attachments/assets/5787ddbb-cd0a-4e04-9def-b2922c7d16ff" />
+
+<img width="406" height="345" alt="Läksy_4_3" src="https://github.com/user-attachments/assets/c44c9d42-c0f9-4028-9795-c36284b0e2c8" />
+
+
