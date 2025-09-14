@@ -23,4 +23,10 @@ Vuokrattu palvelintilaa UpCloudilta.
 
 <img width="406" height="345" alt="Läksy_4_3" src="https://github.com/user-attachments/assets/c44c9d42-c0f9-4028-9795-c36284b0e2c8" />
 
+UpCloudilla on ollut pakko valita SSH login methodiksi, joten luotu SSH-avain palvelimen käynnistämistä varten.
+
+<img width="583" height="266" alt="Läksy_4_5" src="https://github.com/user-attachments/assets/32c8d710-d47b-4783-bf2f-953ab6943fc4" />
+<img width="431" height="301" alt="Läksy_4_4" src="https://github.com/user-attachments/assets/9f52e09c-66f5-4750-aa5f-abda3bb06729" />
+
+
 
