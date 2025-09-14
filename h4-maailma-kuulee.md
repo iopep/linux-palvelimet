@@ -35,5 +35,18 @@ Hetken odottelun jälkeen (noin minuutti) palvelimen tila muuttunut aktiiviseksi
 ## b) Tee alkutoimet omalla virtuaalipalvelimellasi
 
 Otettu terminaalista yhteys virtuaalipalvelimeen.
+
 <img width="637" height="106" alt="Läksy_4_7" src="https://github.com/user-attachments/assets/1cb5cd8f-96ec-493e-a192-cbe1002e80a7" />
+
+Haettu ja asennettu päivitykset.
+
+<img width="640" height="398" alt="Läksy_4_8" src="https://github.com/user-attachments/assets/44eb0ae5-8f9b-4155-b718-a9e01b49ae5b" />
+
+Asennettu palomuuri.
+
+<img width="640" height="360" alt="Läksy_4_9" src="https://github.com/user-attachments/assets/f8e1e53e-7510-4f0e-b284-6edfddabee15" />
+
+Tehty palomuuriin reikä portille 22.
+
+<img width="400" height="73" alt="Läksy_4_10" src="https://github.com/user-attachments/assets/c0eb6c72-2b8a-40a2-8c23-c90fe199a90a" />
 
