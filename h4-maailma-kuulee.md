@@ -50,7 +50,7 @@ Tehty palomuuriin reikä portille 22 ja laitettu palomuuri päälle.
 
 <img width="400" height="73" alt="Läksy_4_10" src="https://github.com/user-attachments/assets/c0eb6c72-2b8a-40a2-8c23-c90fe199a90a" />
 
-Lisätty käyttäjä ilkka ja suljettu root-tunnukset.
+Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toisessa terminaalissa että tunnukset toimii ja suljettu root-tunnukset.
 
 <img width="400" height="175" alt="Läksy_4_11" src="https://github.com/user-attachments/assets/23e957ef-8e03-457e-8a39-e43166fa6042" />
 
