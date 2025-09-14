@@ -58,5 +58,7 @@ Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toises
 
 <img width="564" height="192" alt="Läksy_4_13" src="https://github.com/user-attachments/assets/9e5a4f9f-be53-4be8-808a-8b31646ed7e8" />
 
+
+
 <img width="644" height="194" alt="Läksy_4_14" src="https://github.com/user-attachments/assets/d4a2f76a-668f-427c-9046-f6153bbfa3aa" />
 
