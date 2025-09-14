@@ -15,7 +15,7 @@ Lähteet:
   
 ## a) Vuokraa oma virtuaalipalvelin
 
-Vuokrattu palvelintilaa UpCloudilta. Valittu datacenterin sijainniksi Suomi.
+Vuokrattu palvelintilaa UpCloudilta. Valittu datacenterin sijainniksi Suomi, palvelupaketti ja käyttöjärjestelmä.
 
 <img width="443" height="424" alt="Läksy_4_1" src="https://github.com/user-attachments/assets/e158df8b-79b5-43a7-bc5e-a6310829d0e8" />
 
@@ -31,3 +31,9 @@ UpCloudilla on ollut pakko valita SSH login methodiksi, joten luotu SSH-avain ja
 Hetken odottelun jälkeen (noin minuutti) palvelimen tila muuttunut aktiiviseksi.
 
 <img width="795" height="300" alt="Läksy_4_6" src="https://github.com/user-attachments/assets/dde47720-db32-41cd-bbfd-5db3f3af5dc4" />
+
+## b) Tee alkutoimet omalla virtuaalipalvelimellasi
+
+Otettu terminaalista yhteys virtuaalipalvelimeen.
+<img width="637" height="106" alt="Läksy_4_7" src="https://github.com/user-attachments/assets/1cb5cd8f-96ec-493e-a192-cbe1002e80a7" />
+
