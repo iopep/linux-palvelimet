@@ -72,7 +72,10 @@ Korvattu testisivu (sudo nano /var/www/html/index.html) yksinkertaisella html-ko
 
 <img width="737" height="145" alt="Läksy_4_16" src="https://github.com/user-attachments/assets/a9ab5b7b-b458-4e03-a5b3-a01c21695ffb" />
 
-
+Lähteet:
+1. https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/
+2. https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
+3. Käytetty apuna Microsoft Copilotin hakutoimintoa.
 
 
 
