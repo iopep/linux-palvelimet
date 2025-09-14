@@ -50,7 +50,7 @@ Tehty palomuuriin reikä portille 22 ja laitettu palomuuri päälle.
 
 <img width="400" height="73" alt="Läksy_4_10" src="https://github.com/user-attachments/assets/c0eb6c72-2b8a-40a2-8c23-c90fe199a90a" />
 
-Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toisessa terminaalissa että tunnukset toimii ja suljettu root-tunnukset.
+Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toisessa terminaalissa että tunnukset toimii ja suljettu root-tunnukset. Asennettu kaikki tarvittavat päivitykset (tästä jäi ottamatta kuva, mutta komennoilla sudo apt-get update ja sudo apt-get upgrade).
 
 <img width="400" height="175" alt="Läksy_4_11" src="https://github.com/user-attachments/assets/23e957ef-8e03-457e-8a39-e43166fa6042" />
 
@@ -58,7 +58,21 @@ Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toises
 
 <img width="564" height="192" alt="Läksy_4_13" src="https://github.com/user-attachments/assets/9e5a4f9f-be53-4be8-808a-8b31646ed7e8" />
 
+## c) Asenna weippipalvelin omalle palvelimellesi
 
+Asennettu Apache-palvelin edellisissä kotitehtävissä opeteltujen ohjeiden mukaan (sudo apt-get install apache2). Testattu, että palvelin on aktiivinen. Avattu reikä palomuuriin porttia varten komennolla sudo ufw allow 80/tcp.
 
 <img width="644" height="194" alt="Läksy_4_14" src="https://github.com/user-attachments/assets/d4a2f76a-668f-427c-9046-f6153bbfa3aa" />
+
+Testattu selaimessa, että palvelin toimii
+
+<img width="828" height="478" alt="Läksy_4_15" src="https://github.com/user-attachments/assets/c0d1a7dc-bb95-4563-8121-290eb402a143" />
+
+Korvattu testisivu (sudo nano /var/www/html/index.html) yksinkertaisella html-koodilla. Käynnistetty palvelin uudelleen ja testattu, että sivu toimii.
+
+<img width="737" height="145" alt="Läksy_4_16" src="https://github.com/user-attachments/assets/a9ab5b7b-b458-4e03-a5b3-a01c21695ffb" />
+
+
+
+
 
