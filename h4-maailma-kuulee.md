@@ -34,7 +34,7 @@ Hetken odottelun jälkeen (noin minuutti) palvelimen tila muuttunut aktiiviseksi
 
 ## b) Tee alkutoimet omalla virtuaalipalvelimellasi
 
-Otettu terminaalista yhteys virtuaalipalvelimeen.
+Otettu terminaalista SSH-yhteys virtuaalipalvelimeen.
 
 <img width="637" height="106" alt="Läksy_4_7" src="https://github.com/user-attachments/assets/1cb5cd8f-96ec-493e-a192-cbe1002e80a7" />
 
@@ -46,7 +46,17 @@ Asennettu palomuuri.
 
 <img width="640" height="360" alt="Läksy_4_9" src="https://github.com/user-attachments/assets/f8e1e53e-7510-4f0e-b284-6edfddabee15" />
 
-Tehty palomuuriin reikä portille 22.
+Tehty palomuuriin reikä portille 22 ja laitettu palomuuri päälle.
 
 <img width="400" height="73" alt="Läksy_4_10" src="https://github.com/user-attachments/assets/c0eb6c72-2b8a-40a2-8c23-c90fe199a90a" />
+
+Lisätty käyttäjä ilkka ja suljettu root-tunnukset.
+
+<img width="400" height="175" alt="Läksy_4_11" src="https://github.com/user-attachments/assets/23e957ef-8e03-457e-8a39-e43166fa6042" />
+
+<img width="401" height="225" alt="Läksy_4_12" src="https://github.com/user-attachments/assets/753ff671-8005-4bb8-8ea4-04d3f0dce9bf" />
+
+<img width="564" height="192" alt="Läksy_4_13" src="https://github.com/user-attachments/assets/9e5a4f9f-be53-4be8-808a-8b31646ed7e8" />
+
+<img width="644" height="194" alt="Läksy_4_14" src="https://github.com/user-attachments/assets/d4a2f76a-668f-427c-9046-f6153bbfa3aa" />
 
