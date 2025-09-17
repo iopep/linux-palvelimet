@@ -58,7 +58,7 @@ Lisätty käyttäjä ilkka, lisätty pääkäyttäjän oikeudet, testattu toises
 
 <img width="564" height="192" alt="Läksy_4_13" src="https://github.com/user-attachments/assets/9e5a4f9f-be53-4be8-808a-8b31646ed7e8" />
 
-## c) Asenna weippipalvelin omalle palvelimellesi
+## c) Asenna weppipalvelin omalle palvelimellesi
 
 Asennettu Apache-palvelin edellisissä kotitehtävissä opeteltujen ohjeiden mukaan (sudo apt-get install apache2). Testattu, että palvelin on aktiivinen. Avattu reikä palomuuriin porttia varten komennolla sudo ufw allow 80/tcp.
 
