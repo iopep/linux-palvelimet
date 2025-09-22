@@ -55,5 +55,25 @@ sudo systemctl reload apache2).
 
 - Testattu alidomainien toimivuus.
 
+## c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig' -komennoilla
+
+Koska tein aiemmat tehtävät paikallisesti simuloiden, testattu tässä tehtävässä vain ulkopuolisia sivustoja.
+
+<img width="236" height="85" alt="Läksy_5_11" src="https://github.com/user-attachments/assets/cb9a9697-1aae-4e32-b17c-81716edc937c" />
+
+- Yritetty tutkailla man dig ja man host -komennoilla niiden sisältöä, mutta ylläolevat ilmoitukset pamahtaneet terminaaliin. Kyselty Copilotilta mahdollisia syitä, joka ehdottanut kokeilemaan asentamaan tarvittavat paketit (sudo apt update, sudo apt install dnsutils &  instalsudo apt install bind9-host).
+- Nämä asennustoimenpiteet auttaneet ja päästy tarkastelemaan manuaalia tarvittavilta osin.
+
+<img width="372" height="245" alt="Läksy_5_12" src="https://github.com/user-attachments/assets/2805b11e-ad1f-4626-970a-4b2ce70eca73" />
+
+- Kokeiltu host ja dig -komentoja osoitteelle rannekkeet.fi
+
+<img width="369" height="255" alt="Läksy_5_13" src="https://github.com/user-attachments/assets/9d677d24-4305-42aa-9271-897c154f59e8" />
+
+- Kokeiltu samat komennot myös osoitteelle google.com
+
+  
+
+
 
 
