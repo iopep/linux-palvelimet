@@ -72,6 +72,11 @@ Koska tein aiemmat tehtävät paikallisesti simuloiden, testattu tässä tehtäv
 
 - Kokeiltu samat komennot myös osoitteelle google.com
 
+- Eroja havaittu lähinnä host google.com -komennon palauttamassa viimeisessä rivissä (google.com has HTTP service bindings 1 . alpn="h2,h3").
+- Etsin tietoa Copilotilla ja ChatGPT:llä siitä, mitä tämä tarkoittaa käytännössä, mutta kokonaisselostukset menivät itseltä hieman ohi. Rivi viittaa kuitenkin ilmeisesti mahdollisuuteen muodostaa yhteys nopeammin (palvelin- ja protokollatietoja voidaan välittää DNS:n kautta tjsp. Ihan tarkkaan en kokonaisuutta ymmärtänyt, joten en viitsi yrittää selittää sitä yhtään monimutkaisemmin).
+- 
+
+
   
 
 
