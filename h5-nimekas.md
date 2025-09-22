@@ -12,7 +12,12 @@ En halunnut ostaa oikeaa julkista nimeä, sillä en tee sillä toistaiseksi mit�
   
 <img width="425" height="284" alt="Läksy_5_1" src="https://github.com/user-attachments/assets/28641f6f-f31b-4df8-80a3-af25db89a978" />
 
-- Muokattu /etc/hosts -tiedostoa ja lisätty sinne oman virtuaalipalvelimen ip-osoite ja perään testi domain. Käytetty .local-päätettä, ettei domain yritä yhdistää millekään oikealle sivustolle.
-- Luotu uusi virtuaalipalvelimen konfiguraatio (sudo nano /etc/apache2/sites-available/huuhaamaa.conf)
+- Muokattu /etc/hosts -tiedostoa ja lisätty sinne oman virtuaalipalvelimen ip-osoite ja perään testi-domain (huuhaamaa.local). Käytetty .local-päätettä, ettei domain yritä yhdistää millekään oikealle sivustolle.
+
 <img width="427" height="254" alt="Läksy_5_2" src="https://github.com/user-attachments/assets/2c7d32ad-6580-4cc2-994c-74581acfa74a" />
+- Luotu uusi virtuaalipalvelimen konfiguraatio (sudo nano /etc/apache2/sites-available/huuhaamaa.conf).
+
+<img width="216" height="56" alt="Läksy_5_3" src="https://github.com/user-attachments/assets/afc2107f-e470-4387-aaae-115ee1958c47" />
+- Otettu konfiguraatio käyttöön.
+
 
