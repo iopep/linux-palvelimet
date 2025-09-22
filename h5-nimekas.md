@@ -20,4 +20,14 @@ En halunnut ostaa oikeaa julkista nimeä, sillä en tee sillä toistaiseksi mit�
 <img width="216" height="56" alt="Läksy_5_3" src="https://github.com/user-attachments/assets/afc2107f-e470-4387-aaae-115ee1958c47" />
 - Otettu konfiguraatio käyttöön.
 
+<img width="533" height="286" alt="Läksy_5_4" src="https://github.com/user-attachments/assets/3656d408-58a6-481d-a75b-56beddfcd0b4" />
+- Testattu huuhaamaa.local ja törmätty ongelmiin.
+- Palattu hieman lähteistä löytämissä ohjeissa taakse päin ja todettu, että /etc/hosts tiedostoon tehdyt muokkaukset tehty kirjautuneena ssh-yhteydellä virtuaalipalvelimelle. Ilmeisesti tämä olisi pitänyt tehdä paikallisesti virtuaalikoneella, joten avattu toinen terminaali ja testattu tätä (sudo nano /etc/hosts/).
+
+<img width="403" height="254" alt="Läksy_5_5" src="https://github.com/user-attachments/assets/823649e4-15ed-47b4-8285-4d76efa1b86a" />
+- Lisätty virtuaalipalvelimen ip-osoite ja perään haluttu testi-domain (huuhaamaa.local).
+
+<img width="412" height="234" alt="Läksy_5_6" src="https://github.com/user-attachments/assets/cc2997ed-3e68-46c3-80df-ed89b5fda975" />
+- Testattu uudestaan selaimessa menemällä huuhaamaa.local ja tällä kertaa homma pelittänyt.
+
 
