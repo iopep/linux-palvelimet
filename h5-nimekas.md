@@ -79,7 +79,6 @@ Koska tein aiemmat tehtävät paikallisesti simuloiden, testattu tässä tehtäv
 <img width="266" height="97" alt="Läksy_5_14" src="https://github.com/user-attachments/assets/a30766a5-b7a0-427c-835b-9fa6ec7ade40" />
 
 - Testattu komentoa host -t ns osoitteille. Tämä palauttaa domainien nimipalvelimet (Name Servers). Nimipalvelimet vastaavat domainin DNS-kyselyihin (lähde: Copilot).
-- 
 
 
 
