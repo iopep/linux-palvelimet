@@ -74,7 +74,13 @@ Koska tein aiemmat tehtävät paikallisesti simuloiden, testattu tässä tehtäv
 
 - Eroja havaittu lähinnä host google.com -komennon palauttamassa viimeisessä rivissä (google.com has HTTP service bindings 1 . alpn="h2,h3").
 - Etsin tietoa Copilotilla ja ChatGPT:llä siitä, mitä tämä tarkoittaa käytännössä, mutta kokonaisselostukset menivät itseltä hieman ohi. Rivi viittaa kuitenkin ilmeisesti mahdollisuuteen muodostaa yhteys nopeammin (palvelin- ja protokollatietoja voidaan välittää DNS:n kautta tjsp. Ihan tarkkaan en kokonaisuutta ymmärtänyt, joten en viitsi yrittää selittää sitä yhtään monimutkaisemmin).
+- Yhteisiä palautuksia ovat ip-osoitteet ja sähköpostipalvelin.
+
+<img width="266" height="97" alt="Läksy_5_14" src="https://github.com/user-attachments/assets/a30766a5-b7a0-427c-835b-9fa6ec7ade40" />
+
+- Testattu komentoa host -t ns osoitteille. Tämä palauttaa domainien nimipalvelimet (Name Servers). Nimipalvelimet vastaavat domainin DNS-kyselyihin (lähde: Copilot).
 - 
+
 
 
   
