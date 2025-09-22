@@ -35,4 +35,25 @@ En halunnut ostaa oikeaa julkista nimeä, sillä en tee sillä toistaiseksi mit�
 
 - Testattu uudestaan selaimessa menemällä huuhaamaa.local ja tällä kertaa homma pelittänyt.
 
+## b) Alidomain. Tee kaksi uutta alidomainia, jotka osoittavat omaan koneeseesi.
+
+- Muokattu virtuaalipalvelimen konfiguaartiotiedostoa (sudo nano /etc/apache2/sites-available/huuhaamaa.conf).
+
+<img width="430" height="105" alt="Läksy_5_7" src="https://github.com/user-attachments/assets/105b0cf5-3b94-4881-b755-923650f8060d" />
+
+- Lisätty alidomainit (totta.huuhaamaa.local & tarua.huuhaamaa.local).
+- Otettu konfigraatio käyttöön ja ladattu Apache-palvelin uudelleen (sudo a2ensite huuhaamaa.conf
+sudo systemctl reload apache2).
+
+<img width="485" height="51" alt="Läksy_5_8" src="https://github.com/user-attachments/assets/6e4530ac-b6f9-45cc-b272-7bfe303ddd77" />
+
+- Lisätty paikalliseen /etc/hosts tiedostoon alidomainit.
+
+<img width="350" height="102" alt="Läksy_5_9" src="https://github.com/user-attachments/assets/199e2342-a63a-4006-a95a-2aeadee3452c" />
+
+<img width="292" height="108" alt="Läksy_5_10" src="https://github.com/user-attachments/assets/e29edb13-b73e-460f-b029-e969b4d52bfa" />
+
+- Testattu alidomainien toimivuus.
+
+
 
