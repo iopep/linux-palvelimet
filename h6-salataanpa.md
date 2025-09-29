@@ -6,7 +6,7 @@
 - Onnistuneen tunnistuksen jälkeen HTTPS-varmenteita voi manageerata auktorisoitujen avainparien avulla.
 - SSL-konfiguraation tulee sisältää vähintää seuraavat sisällöt:
   LoadModule ssl_module modules/mod_ssl.so
-
+___________________________________________________________
 |Listen 443                                               |
 |<VirtualHost *:443>                                      |
 |    ServerName www.example.com                           |
@@ -14,3 +14,4 @@
 |    SSLCertificateFile "/path/to/www.example.com.cert"   |
 |    SSLCertificateKeyFile "/path/to/www.example.com.key" |
 |</VirtualHost>                                           |
+___________________________________________________________
