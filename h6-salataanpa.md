@@ -22,5 +22,11 @@
 
 <img width="541" height="384" alt="Läksy_6_4" src="https://github.com/user-attachments/assets/62fbca16-f5a0-4afd-af77-fb3540999b83" />
 
+<img width="498" height="362" alt="Läksy_6_5" src="https://github.com/user-attachments/assets/b76f69a5-a9ca-419b-9f4a-a255b85280b6" />
+
+<img width="476" height="412" alt="Läksy_6_6" src="https://github.com/user-attachments/assets/088adb79-a556-4dca-af01-6e4423a72d74" />
+
+
+
 
 
