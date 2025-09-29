@@ -20,4 +20,7 @@
 
 <img width="525" height="174" alt="Läksy_6_3" src="https://github.com/user-attachments/assets/1310e749-3d41-44ae-acaf-a36f56004511" />
 
+<img width="541" height="384" alt="Läksy_6_4" src="https://github.com/user-attachments/assets/62fbca16-f5a0-4afd-af77-fb3540999b83" />
+
+
 
