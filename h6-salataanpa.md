@@ -5,14 +5,6 @@
 - Verkkotunnuksen hallinta todistetaan Let's Encryptille esimerkiksi DNS-tietueella.
 - Onnistuneen tunnistuksen jälkeen HTTPS-varmenteita voi manageerata auktorisoitujen avainparien avulla.
 - SSL-konfiguraation tulee sisältää vähintää seuraavat sisällöt:
-
-LoadModule ssl_module modules/mod_ssl.so
-
-Listen 443                                               
-<VirtualHost *:443>                                      
-    ServerName www.example.com                           
-    SSLEngine on                                         
-    SSLCertificateFile "/path/to/www.example.com.cert"   
-    SSLCertificateKeyFile "/path/to/www.example.com.key" 
-</VirtualHost>                                           
+       <img width="243" height="75" alt="Läksy_6_1" src="https://github.com/user-attachments/assets/2682c1b6-7afe-4009-9492-6b0da18dd8fb" />
+                           
 
