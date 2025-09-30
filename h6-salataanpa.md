@@ -51,6 +51,16 @@
 
 - Tarkemmat tiedot testin tuloksista eivät kertoneet itselleni mitään ennestään mitään, joten tutkailin lähdettä https://learn.microsoft.com/en-us/power-platform/admin/server-cipher-tls-requirements. Ilmeisesti sivuston protokollaosion pisteitä laskee sen tarjoamat suojausyhdistelmät TLS 1.2 salauksessa. Sivusto tarjoaa toisena vaihtoehtona heikommaksi tiedettyjä salausversioita, mikä mahdollisesti (?) tiputtaa yleisarvosanaa. TLS 1.3 puolella samaa ongelmaa ei ole.
 
+## c) Tee weppilomake, jossa on käyttäjätunnus ja salasana. Käytä salaamatonta http-yhteyttä. Sieppaa liikennettä (esim. Wireshark, ngrep). Mitä havaitset? Mitä vaikutuksia tällä on tietoturvaan?
+
+<img width="773" height="413" alt="Läksy_6_7" src="https://github.com/user-attachments/assets/445ab466-cdcc-48b8-982b-c6f64e18b194" />
+
+- Luotu webbilomake aiemmin luomalleni palvelimelle.
+
+<img width="397" height="199" alt="Läksy_6_8" src="https://github.com/user-attachments/assets/d3693bc6-193b-4b55-9e47-e5d0dc785451" />
+
+- Testattu, että koodi toimii ja sivu näkyy oikein.
+
 
 
 
