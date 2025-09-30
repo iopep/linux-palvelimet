@@ -39,6 +39,8 @@
   | TLS 1.2 | 100 % |
   | TLS 1.3 | 100 % |
 
+  Lähde: https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide
+
 <img width="498" height="362" alt="Läksy_6_5" src="https://github.com/user-attachments/assets/b76f69a5-a9ca-419b-9f4a-a255b85280b6" />
 
 <img width="476" height="412" alt="Läksy_6_6" src="https://github.com/user-attachments/assets/088adb79-a556-4dca-af01-6e4423a72d74" />
