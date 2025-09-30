@@ -29,6 +29,7 @@
   1. Ohjelma tarkastelee serverin käyttämän parhaan protokollan pistemäärän.
   2. Tähän lisätään huonoimman käytetyn protokollan pistemäärä.
   3. Tulos jaetaan kahdella.
+     
   | SSL 2.0 | 0 % |
   | SSL 3.0 | 80 % |
 
