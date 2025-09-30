@@ -61,6 +61,20 @@
 
 - Testattu, että koodi toimii ja sivu näkyy oikein.
 
+<img width="779" height="204" alt="Läksy_6_9" src="https://github.com/user-attachments/assets/7aa71e94-280f-4ed2-ac51-9d562fc6272a" />
+
+- Käytetty ngrep-komentoa kuuntelemaan kaikkea oman palvelimen http-liikennettä. Ohjeet ngrepin käyttöön etsitty lähteestä https://www.geeksforgeeks.org/linux-unix/ngrep-network-packet-analyzer-for-linux/. Käytön täsmennyksessä hyödynnetty Copilotia.
+
+<img width="293" height="162" alt="Läksy_6_10" src="https://github.com/user-attachments/assets/47dc0e04-be56-4e28-b3d4-c28e8da12000" />
+
+- Laitettu käyttäjänimi- ja salasanakenttiin kuvitteellisia tietoja. Selain jo osuvasti varoitellut turvattomasta yhteydestä.
+
+<img width="785" height="327" alt="Läksy_6_11" src="https://github.com/user-attachments/assets/ccdcc107-7a9f-4ca2-b906-6ef0df71c6c8" />
+
+- Kirjautumistoiminto tullut näkyviin komentorivin http-"kuunteluun". Suojaamattoman yhteyden takia komentorivillä näkyy esimerkiksi yritetyt kirjautumistiedot salaamattomana (käyttäjänimi valdemar ja salasana 9394949)
+- Tämä demonstroi salaamattomaan tai huonosti salattuun yhteyteen liittyviä valtavia tietoturvariskejä.
+- Itse olen täysi noviisi näissä asioissa, mutta hyvin pienellä vaivalla sain edellä mainitut tiedot näkyviin. Näin ollen vähänkään etevämmät tekijät pystyvät varmasti helposti kalastelemaan arkaluontoisia tietoja, vaikka suojaustoimet olisivat hieman paremmalla tolalla, mutta esimerkiksi vanhentuneita tai viottuneita.
+
 
 
 
