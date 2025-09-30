@@ -12,6 +12,10 @@
 1. https://letsencrypt.org/how-it-works/
 2. https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample
 
+## a) Hanki ja asenna TLS-sertifikaatti
+
+- Tehty ohjeiden mukaisesti vaihtoehtoisena tehtävänä tehtävä c), sillä minulla ei ole omaa domainia käytössä.
+
 ## b) A-rating. Testaa jonkin sivuston TLS.
 
 - Testattu sivuston www.ilmatieteenlaitos.fi TLS käyttäen SSLLabsia (https://www.ssllabs.com/ssltest/)
