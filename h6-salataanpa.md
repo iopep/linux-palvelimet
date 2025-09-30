@@ -45,6 +45,8 @@
 
 <img width="476" height="412" alt="Läksy_6_6" src="https://github.com/user-attachments/assets/088adb79-a556-4dca-af01-6e4423a72d74" />
 
+- Tarkemmat tiedot testin tuloksista eivät kertoneet itselleni mitään ennestään mitään, joten tutkailin lähdettä https://learn.microsoft.com/en-us/power-platform/admin/server-cipher-tls-requirements. Ilmeisesti sivuston protokollaosion pisteitä laskee sen tarjoamat suojausyhdistelmät TLS 1.2 salauksessa. Sivusto tarjoaa toisena vaihtoehtona heikommaksi tiedettyjä salausversioita, mikä mahdollisesti (?) tiputtaa yleisarvosanaa. TLS 1.3 puolella samaa ongelmaa ei ole.
+
 
 
 
