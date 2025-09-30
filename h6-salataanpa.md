@@ -31,8 +31,8 @@
   3. Tulos jaetaan kahdella.
      
 
-  | Pisteiden lasku | |
-  |-----------------| 
+  | >Protokolla | Pisteiden lasku | 
+  |---------|--------| 
   | SSL 2.0 | 0 %   |
   | SSL 3.0 | 80 %  |
 
