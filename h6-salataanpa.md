@@ -30,11 +30,14 @@
   2. Tähän lisätään huonoimman käytetyn protokollan pistemäärä.
   3. Tulos jaetaan kahdella.
      
-
-  | >Protokolla | Pisteiden lasku | 
-  |---------|--------| 
-  | SSL 2.0 | 0 %   |
-  | SSL 3.0 | 80 %  |
+  | Protokolla | Pisteiden lasku | 
+  |---------|------| 
+  | SSL 2.0 | 0 % |
+  | SSL 3.0 | 80 % |
+  | TLS 1.0 | 90 % |
+  | TLS 1.1 | 95 % |
+  | TLS 1.2 | 100 % |
+  | TLS 1.3 | 100 % |
 
 <img width="498" height="362" alt="Läksy_6_5" src="https://github.com/user-attachments/assets/b76f69a5-a9ca-419b-9f4a-a255b85280b6" />
 
