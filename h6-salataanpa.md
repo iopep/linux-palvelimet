@@ -18,6 +18,8 @@
 
 <img width="545" height="441" alt="Läksy_6_2" src="https://github.com/user-attachments/assets/79cc073d-a73a-40f5-ad5e-0f9c2bb6ff1b" />
 
+- Yleisarvosana B kertoo ns. tiivistetyn arvion kyseisen sivuston TLS-suojauksesta. B arvosanana tarkoittaa pisteitä väliltä 65-79. B yleisarvosanana ei ole heikko, mutta kertoo siitä, että jotkin osiot sivuston salauksessa saattavat olla vanhentuneiden käytäntöjen mukaisia. (lähde: https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide)
+
 <img width="525" height="174" alt="Läksy_6_3" src="https://github.com/user-attachments/assets/1310e749-3d41-44ae-acaf-a36f56004511" />
 
 <img width="541" height="384" alt="Läksy_6_4" src="https://github.com/user-attachments/assets/62fbca16-f5a0-4afd-af77-fb3540999b83" />
