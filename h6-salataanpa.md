@@ -24,6 +24,14 @@
 
 <img width="541" height="384" alt="Läksy_6_4" src="https://github.com/user-attachments/assets/62fbca16-f5a0-4afd-af77-fb3540999b83" />
 
+- Arvioinnin yhteenvedon tarkastelusta voi huomata, että osa-alue Protocol support on selkeästi tiputtanut yleisarvosanaa A --> B.
+- Protocol support osion painoarvo on 30 % kokonaisarvosanasta. Protocol supportin pistemäärä lasketaan seuraavasti:
+  1. Ohjelma tarkastelee serverin käyttämän parhaan protokollan pistemäärän.
+  2. Tähän lisätään huonoimman käytetyn protokollan pistemäärä.
+  3. Tulos jaetaan kahdella.
+  | SSL 2.0 | 0 % |
+  | SSL 3.0 | 80 % |
+
 <img width="498" height="362" alt="Läksy_6_5" src="https://github.com/user-attachments/assets/b76f69a5-a9ca-419b-9f4a-a255b85280b6" />
 
 <img width="476" height="412" alt="Läksy_6_6" src="https://github.com/user-attachments/assets/088adb79-a556-4dca-af01-6e4423a72d74" />
