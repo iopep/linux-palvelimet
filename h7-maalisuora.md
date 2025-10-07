@@ -48,6 +48,18 @@ Lähteet:
 
 <img width="306" height="64" alt="Läksy_7_9" src="https://github.com/user-attachments/assets/42495e23-a693-477c-a29a-c2d3624063dc" />
 
+## b) Laita Linuxiin usi komento niin, että kaikki käyttäjät voivat ajaa sitä.
+
+<img width="325" height="39" alt="Läksy_7_10" src="https://github.com/user-attachments/assets/7720cee8-d1cb-4084-8376-469e923ae023" />
+
+- Luotu tiedosto komentokaikille.sh ja kirjoitettu tiedostoon:
+  #!/bin/bash
+  echo "Komento kaikille!"
+- Sijoitettu komento hakemistoon, josta se on kaikkien käytettävissä.
+- Tehty komennosta kaikille suoritettava. 
+- Testattu komennon toimivuutta. Sekoiltu jälleen kerran tiedostonimen kanssa aluksi, mutta saatu homma toimimaan.
+
+<img width="325" height="39" alt="Läksy_7_10" src="https://github.com/user-attachments/assets/03b4186b-ee7b-4b97-ad66-7f66e76e510e" />
 
 
 
