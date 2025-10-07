@@ -67,6 +67,21 @@ Lähteet:
 
 <img width="325" height="39" alt="Läksy_7_10" src="https://github.com/user-attachments/assets/03b4186b-ee7b-4b97-ad66-7f66e76e510e" />
 
+## c) Ratkaise vanha arvioitava laboratorioharjoitus soveltuvin osin.
+
+- Tehty vanha laboratorioharjoitus WhoWhere osoitteesta https://terokarvinen.com/2017/arvioitava-laboratorioharjoitus-linux-palvelimet-ict4tn021-4-tiistai-alkusyksy-2017-5-op/. Valittu tehtävä, sillä se on ollut jatkoa muille tämän kerran tehtäville. Käytetty apuna Copilotin hakutoimintoa scriptiin tarvittavien toimintojen löytämiseksi (miten IP-osoite haetaan).
+-  Luotu tiedosto helloninja.sh
+-  Lisätty editorilla tarvittavat tiedot scriptiin (alempi kuva)
+-  Tehty scriptistä ajettava ja kaikkien käytettävä.
+-  Testattu komento.
+
+<img width="323" height="83" alt="Läksy_7_13" src="https://github.com/user-attachments/assets/70e97d99-e54d-4da4-a1e5-47d35b599b86" />
+
+<img width="401" height="88" alt="Läksy_7_12" src="https://github.com/user-attachments/assets/8ca35798-1ff5-4d50-b788-9180de74451f" />
+
+- Testivaiheessa huomattu, että homma pelittää muuten hyvin, mutta IP-osoitteen haku / näyttäminen ei toimi.
+
+
 
 
 
