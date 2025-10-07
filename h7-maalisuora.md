@@ -21,7 +21,8 @@ Lähteet:
 <img width="433" height="60" alt="Läksy_7_3" src="https://github.com/user-attachments/assets/8d534b77-e301-45ec-b7db-08326e1fff69" />
 
 - Luotu tiedosto helloworld.py ja editorilla lisätty seuraava pätkä
-  <img width="364" height="91" alt="Läksy_7_4" src="https://github.com/user-attachments/assets/cb2fed46-7eb3-49ab-8ace-b583fe269283" />
+  
+<img width="364" height="91" alt="Läksy_7_4" src="https://github.com/user-attachments/assets/cb2fed46-7eb3-49ab-8ace-b583fe269283" />
 
 
 
