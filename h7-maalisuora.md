@@ -4,8 +4,9 @@
 
 Lähteet:
 1. https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-01102025.md
-2. https://terokarvinen.com/2024/linux-palvelimet-2024p1-alkusyksy-ici003as2a-3010/
-3. Hyödynnetty Microsoft Copilotia virheiden etsinnässä.
+2. https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+3. https://terokarvinen.com/2007/12/04/shell-scripting-4/
+4. Hyödynnetty Microsoft Copilotia virheiden etsinnässä.
 
 ### Bash
 
