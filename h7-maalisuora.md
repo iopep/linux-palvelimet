@@ -50,6 +50,12 @@ Lähteet:
 
 ## b) Laita Linuxiin usi komento niin, että kaikki käyttäjät voivat ajaa sitä.
 
+Lähteet:
+1. https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-01102025.md
+2. https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+3. https://terokarvinen.com/2007/12/04/shell-scripting-4/
+4. Hyödynnetty Microsoft Copilotia virheiden etsinnässä.
+
 <img width="325" height="39" alt="Läksy_7_10" src="https://github.com/user-attachments/assets/7720cee8-d1cb-4084-8376-469e923ae023" />
 
 - Luotu tiedosto komentokaikille.sh ja kirjoitettu tiedostoon:
