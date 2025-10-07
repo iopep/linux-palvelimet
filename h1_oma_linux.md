@@ -45,4 +45,4 @@ Asennettu ja käynnistetty palomuuri ohjeen https://terokarvinen.com/2021/instal
 $ sudo apt-get -y install ufw
 $ sudo ufw enable
 
-Koko asennussaagass mennyt noin 1 tunti ja 50 minuuttia, joista iso osa mennyt kuitenkin allekirjoittaneen ihmettelyyn ja kokeiluun asennuksen jälkeen, sillä olen täysin noviisi aiheen ympärillä. Varsinaiset asennuksessa vastaan tulleet haasteet sain nopeasti ratkottua kurssiohjeiden ja pikaisen googlailun avulla.
+Koko asennuksessa mennyt noin 1 tunti ja 50 minuuttia, joista iso osa mennyt kuitenkin allekirjoittaneen ihmettelyyn ja kokeiluun asennuksen jälkeen, sillä olen täysin noviisi aiheen ympärillä. Varsinaiset asennuksessa vastaan tulleet haasteet sain nopeasti ratkottua kurssiohjeiden ja pikaisen googlailun avulla.
