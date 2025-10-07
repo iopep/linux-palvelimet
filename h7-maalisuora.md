@@ -80,6 +80,12 @@ Lähteet:
 <img width="401" height="88" alt="Läksy_7_12" src="https://github.com/user-attachments/assets/8ca35798-1ff5-4d50-b788-9180de74451f" />
 
 - Testivaiheessa huomattu, että homma pelittää muuten hyvin, mutta IP-osoitteen haku / näyttäminen ei toimi.
+- Kysäisty neuvoa Copilotilta. Annettu tarkennettuja tietoja omasta käyttöjärjestelmästä.
+- Päivitetty scriptin keskimmäiselle riville: echo "IP-osoite: $(ip -4 addr show scope global | grep inet | awk '{print $2}' | cut -d/ -f1)"
+- Testattu uudelleen.
+
+<img width="301" height="46" alt="Läksy_7_14" src="https://github.com/user-attachments/assets/ccc07a94-f1ac-4246-bbb5-a336881d4c86" />
+
 
 
 
