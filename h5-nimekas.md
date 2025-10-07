@@ -82,7 +82,7 @@ Koska tein aiemmat tehtävät paikallisesti simuloiden, testattu tässä tehtäv
 
 
 
-  
+  Muut lähteet: https://terokarvinen.com/2024/linux-palvelimet-2024p1-alkusyksy-ici003as2a-3010/
 
 
 
