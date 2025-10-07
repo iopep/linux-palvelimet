@@ -1,4 +1,4 @@
-#h7 Maalisuora
+# h7 Maalisuora
 
 ## a) Kirjoita ja aja "Hei maailma" kolmella kielellä.
 
@@ -15,6 +15,10 @@ Lähteet:
 - Seuraavaksi sekoiltu kirjoitusvirheiden kanssa.
 - Oikeinkirjoituksen opiskelun jälkeen tarkistettu suoritusoikeudet ja lisätty niitä.
 - Testattu käytännössä ohjeiden mukaista eroa tiedoston eksplisiittisen sijainnin suhteen ja Ajettu "Hello world!".
+
+### Python
+
+
 
 
 
