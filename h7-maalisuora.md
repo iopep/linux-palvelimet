@@ -87,6 +87,8 @@ Lähteet:
 <img width="301" height="46" alt="Läksy_7_14" src="https://github.com/user-attachments/assets/ccc07a94-f1ac-4246-bbb5-a336881d4c86" />
 
 
+- Tajuttu jälkikäteen tehtävän palautusajan jo umpeuduttua, että kohdassa c) olisi pitänyt ilmeisesti tehdä kokonainen labrasetti (ei vain yhtä harjoitusta).
+
 
 
 
